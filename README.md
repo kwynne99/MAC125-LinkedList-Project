@@ -1,5 +1,5 @@
 # MAC125-LinkedList-Project
-// The Final Project I created for my Advanced C++ Class
+This is the linked list project I created for my final project in Advanced C++
 
 	// Kyle Wynne - MAC 125 - Linked List Project
 	// Created functions to add records to beginning and end, as well as insert.
