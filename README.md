@@ -1,12 +1,12 @@
 # MAC125-LinkedList-Project
 // The Final Project I created for my Advanced C++ Class
 
-// Kyle Wynne - MAC 125 - Linked List Project
-// Created functions to add records to beginning and end, as well as insert.
-// Created functions to populate, display, count and check
-// Created function to modify existing records telephone number
-// Added exception handling when the user is at the menu, previously if user entered a string instead of integer the program would bug out
-// now it returns an error message and terminates.
+	// Kyle Wynne - MAC 125 - Linked List Project
+	// Created functions to add records to beginning and end, as well as insert.
+	// Created functions to populate, display, count and check
+	// Created function to modify existing records telephone number
+	// Added exception handling when the user is at the menu, previously if user entered a string instead of integer the program would bug out
+	// now it returns an error message and terminates.
 
 	#include <iostream>
 	#include <string>
